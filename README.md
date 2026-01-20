@@ -1,144 +1,169 @@
-# 👋 Hi, I'm **Jagadeesan V**
+Perfect 👍 understood clearly.
+✅ **ONLY change JavaScript / TypeScript → Java**
+✅ **Content, wording, structure = EXACTLY THE SAME**
+✅ **One single Markdown block for easy copy-paste**
 
-~~~java
-public class JagadeesanV {
+Below is your **final `README.md`**, Java version 👇
 
-    private final String role = "Java Full Stack Developer";
-    private final String philosophy = "Write clean code. Build scalable systems.";
-    private final String focus = "Problem Solving | Backend Engineering | System Design";
+---
 
-    public void intro() {
-        System.out.println("Java is not just a language — it's my engineering mindset.");
-    }
+````md
+# Jagadeesan V
+
+```java
+class Profile {
+    String name = "Jagadeesan V";
+    String bio = "Ideas → Code → Products | React + Spring Boot";
+    String currentWork = "Working on Freelancing project ";
+    String learning = "Advancing from core concepts to advanced DSA mastery";
+    String interests = "Creating ideas that build user trust through thoughtful coding";
+
+    String[] skills = {
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind",
+        "Bootstrap",
+        "Material UI",
+        "Spring",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "GitHub Actions",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "Java",
+        "JavaScript"
+    };
 }
-~~~
+````
 
-☕ **Java is my core strength.**  
-I design and build **robust, scalable, and maintainable systems** using strong fundamentals, clean architecture, and real-world problem solving.
+## 🔭 I'm currently working on
 
----
+Working on Freelancing project
 
-## 🚀 What I’m Currently Working On
-- 🧑‍💻 Freelance **Java & Full-Stack** projects  
-- 🏗️ Backend development using **Spring & Spring Boot**  
-- 🔄 REST APIs with real-world business logic  
+## 🌱 I'm currently learning
 
----
+Advancing from core concepts to advanced DSA mastery
 
-## 🌱 Currently Learning
-- Advanced **DSA using Java**
-- Writing **optimized and interview-ready solutions**
-- Improving **system thinking & design patterns**
+## 👀 I'm interested in
 
----
-
-## 👀 Interests
-- Clean Code & SOLID principles  
-- Backend performance & scalability  
-- Turning business problems into Java solutions  
-
----
+Creating ideas that build user trust through thoughtful coding
 
 ## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JagaAj&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
----
-
 ## 🔝 Most Used Languages
-<div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagaAj&layout=compact&langs_count=10&theme=dark"/>
-</div>
 
----
+<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagaAj&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
 ## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagaAj&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagaAj&theme=dark&hide_border=false" />
 </div>
 
----
+## 💻 Tech Stack
 
-## 💻 Java-Centric Tech Stack
-
-~~~java
-public class TechStack {
-
-    String[] backend = {
-        "Java", "Spring", "Spring Boot"
-    };
+```java
+class TechStack {
 
     String[] frontend = {
-        "React", "HTML5", "CSS3", "Tailwind", "Bootstrap", "Material UI"
+        "React",
+        "Next.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind",
+        "Bootstrap",
+        "Material UI"
     };
 
-    String[] databases = {
-        "MySQL", "PostgreSQL", "MongoDB"
+    String[] backend = {
+        "Spring",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
     };
 
     String[] devops = {
-        "Docker", "GitHub Actions"
+        "Docker",
+        "GitHub Actions"
     };
 
     String[] ai_ml = {
-        "TensorFlow", "PyTorch", "OpenCV"
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV"
+    };
+
+    String[] languages = {
+        "Java",
+        "JavaScript"
     };
 }
-~~~
+```
 
----
+## 🌐 Socials
 
-## 🌐 Connect With Me
-
-~~~java
-public class Socials {
-
-    String github    = "https://github.com/JagaAj";
-    String linkedin  = "https://www.linkedin.com/in/jagadeesan-v/";
-    String portfolio = "https://jagadeesanportfolio.netlify.app/";
-    String instagram = "https://www.instagram.com/web.intel";
-    String leetcode  = "https://leetcode.com/u/venujagadeesan/";
+```java
+class Socials {
+    String github = "JagaAj";
+    String linkedin = "https://www.linkedin.com/in/jagadeesan-v/";
+    String website = "https://jagadeesanportfolio.netlify.app/";
+    String instagram = "web.intel";
+    String leetcode = "https://leetcode.com/u/venujagadeesan/";
 }
-~~~
+```
 
-<div align="center">
-<a href="https://github.com/JagaAj">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/jagadeesan-v/">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://jagadeesanportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/web.intel">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/venujagadeesan/">
-  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<div>
+<a href="https://github.com/JagaAj"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jagadeesan-v/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://jagadeesanportfolio.netlify.app/"><img src="https://img.shields.io/badge/website-%23000000.svg?style=for-the-badge&logo=website&logoColor=white" /></a> <a href="https://www.instagram.com/web.intel"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://leetcode.com/u/venujagadeesan/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
 </div>
 
----
+## 📫 How to reach me
 
-## 📫 Reach Me
-
-~~~java
-public class Contact {
-
+```java
+class Contact {
     String email = "venujagadeesan@gmail.com";
-    String phone = "+91 9840870739";
+    String phone = "+ 91 9840870739";
 }
-~~~
+```
 
----
-
-~~~java
-public class Main {
+```java
+// Thanks for visiting my profile!
+class Main {
     public static void main(String[] args) {
-        System.out.println("Let's build something powerful with Java ☕🚀");
+        System.out.println("Let's connect and collaborate on exciting projects!");
     }
 }
-~~~
+```
+
+```
+
+---
+
+✅ **What changed?**
+- Only `typescript / javascript / json` → **Java**
+- **Zero content change**
+- **One single copy-paste block**
+
+If you want next (optional):
+- ☕ **More idiomatic Java style**
+- 🎯 **FAANG-style Java profile**
+- 🧠 **DSA-focused Java README**
+
+Just tell me 🔥
+```
