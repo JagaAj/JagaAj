@@ -1,15 +1,4 @@
-Perfect 👍 understood clearly.
-✅ **ONLY change JavaScript / TypeScript → Java**
-✅ **Content, wording, structure = EXACTLY THE SAME**
-✅ **One single Markdown block for easy copy-paste**
-
-Below is your **final `README.md`**, Java version 👇
-
----
-
-````md
-# Jagadeesan V
-
+# 👋 Hi, I'm **Jagadeesan V**
 ```java
 class Profile {
     String name = "Jagadeesan V";
@@ -47,7 +36,8 @@ Working on Freelancing project
 
 ## 🌱 I'm currently learning
 
-Advancing from core concepts to advanced DSA mastery
+- Advanced **DSA using Java**
+- Improving **system thinking & design patterns**
 
 ## 👀 I'm interested in
 
@@ -55,23 +45,17 @@ Creating ideas that build user trust through thoughtful coding
 
 ## 🏆 GitHub Trophies
 
-<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JagaAj&theme=onedark&column=7&margin-w=15&margin-h=15" />
 </p>
 
 ## 🔝 Most Used Languages
 
-<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagaAj&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'JagaAj' with your actual GitHub username in the URL below -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JagaAj&theme=dark&hide_border=false" />
