@@ -1,37 +1,41 @@
-# 👋 Hey, I'm **Jagadeesan V**
+# 👋 Hi, I'm **Jagadeesan V**
 
-~~~ts
-const jagadeesan = {
-  role: "Full Stack Developer",
-  mindset: "Build once. Build right. Build for people.",
-  focus: ["Scalable Systems", "Clean Architecture", "Problem Solving"],
-  techStack: "React ⚛️ | Spring Boot ☕ | Databases 🗄️",
-};
+~~~java
+public class JagadeesanV {
+
+    private final String role = "Java Full Stack Developer";
+    private final String philosophy = "Write clean code. Build scalable systems.";
+    private final String focus = "Problem Solving | Backend Engineering | System Design";
+
+    public void intro() {
+        System.out.println("Java is not just a language — it's my engineering mindset.");
+    }
+}
 ~~~
 
-💡 I turn **ideas into reliable products** using thoughtful design, clean code, and strong fundamentals.  
-🚀 Passionate about building systems users can **trust, scale, and love**.
+☕ **Java is my core strength.**  
+I design and build **robust, scalable, and maintainable systems** using strong fundamentals, clean architecture, and real-world problem solving.
 
 ---
 
-## 🚀 What I’m Working On
-- 🧑‍💻 Freelance projects (Web & Backend systems)
-- 🧩 Solving real-world problems with **React + Spring Boot**
-- 🏗️ Designing maintainable, production-ready architectures
+## 🚀 What I’m Currently Working On
+- 🧑‍💻 Freelance **Java & Full-Stack** projects  
+- 🏗️ Backend development using **Spring & Spring Boot**  
+- 🔄 REST APIs with real-world business logic  
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **DSA & problem-solving patterns**
-- Writing **efficient, interview-ready solutions**
-- Improving **system thinking**, not just syntax
+- Advanced **DSA using Java**
+- Writing **optimized and interview-ready solutions**
+- Improving **system thinking & design patterns**
 
 ---
 
 ## 👀 Interests
-- Building products that feel *simple* but are *powerful inside*
-- Developer experience & clean APIs
-- Turning complex problems into elegant solutions
+- Clean Code & SOLID principles  
+- Backend performance & scalability  
+- Turning business problems into Java solutions  
 
 ---
 
@@ -57,38 +61,30 @@ const jagadeesan = {
 
 ---
 
-## 💻 Tech Stack
+## 💻 Java-Centric Tech Stack
 
-~~~json
-{
-  "frontend": [
-    "React",
-    "Next.js",
-    "HTML5",
-    "CSS3",
-    "Tailwind",
-    "Bootstrap",
-    "Material UI"
-  ],
-  "backend": [
-    "Spring",
-    "MySQL",
-    "PostgreSQL",
-    "MongoDB"
-  ],
-  "devops": [
-    "Docker",
-    "GitHub Actions"
-  ],
-  "ai_ml": [
-    "TensorFlow",
-    "PyTorch",
-    "OpenCV"
-  ],
-  "languages": [
-    "Java",
-    "JavaScript"
-  ]
+~~~java
+public class TechStack {
+
+    String[] backend = {
+        "Java", "Spring", "Spring Boot"
+    };
+
+    String[] frontend = {
+        "React", "HTML5", "CSS3", "Tailwind", "Bootstrap", "Material UI"
+    };
+
+    String[] databases = {
+        "MySQL", "PostgreSQL", "MongoDB"
+    };
+
+    String[] devops = {
+        "Docker", "GitHub Actions"
+    };
+
+    String[] ai_ml = {
+        "TensorFlow", "PyTorch", "OpenCV"
+    };
 }
 ~~~
 
@@ -96,14 +92,15 @@ const jagadeesan = {
 
 ## 🌐 Connect With Me
 
-~~~js
-const socials = {
-  github: "JagaAj",
-  linkedin: "https://www.linkedin.com/in/jagadeesan-v/",
-  portfolio: "https://jagadeesanportfolio.netlify.app/",
-  instagram: "web.intel",
-  leetcode: "https://leetcode.com/u/venujagadeesan/",
-};
+~~~java
+public class Socials {
+
+    String github    = "https://github.com/JagaAj";
+    String linkedin  = "https://www.linkedin.com/in/jagadeesan-v/";
+    String portfolio = "https://jagadeesanportfolio.netlify.app/";
+    String instagram = "https://www.instagram.com/web.intel";
+    String leetcode  = "https://leetcode.com/u/venujagadeesan/";
+}
 ~~~
 
 <div align="center">
@@ -128,16 +125,20 @@ const socials = {
 
 ## 📫 Reach Me
 
-~~~js
-const contact = {
-  email: "venujagadeesan@gmail.com",
-  phone: "+91 9840870739",
-};
+~~~java
+public class Contact {
+
+    String email = "venujagadeesan@gmail.com";
+    String phone = "+91 9840870739";
+}
 ~~~
 
 ---
 
-~~~ts
-console.log("If you’re building something meaningful — let’s talk 🚀");
-process.exit(0);
+~~~java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Let's build something powerful with Java ☕🚀");
+    }
+}
 ~~~
