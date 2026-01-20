@@ -135,19 +135,3 @@ class Main {
 }
 ```
 
-```
-
----
-
-✅ **What changed?**
-- Only `typescript / javascript / json` → **Java**
-- **Zero content change**
-- **One single copy-paste block**
-
-If you want next (optional):
-- ☕ **More idiomatic Java style**
-- 🎯 **FAANG-style Java profile**
-- 🧠 **DSA-focused Java README**
-
-Just tell me 🔥
-```
